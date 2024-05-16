@@ -1,0 +1,12 @@
+html{
+    overflow-x: hidden;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+h1{
+    font-family: Brush Script MT; 
+    font-size: 65px;
+}
